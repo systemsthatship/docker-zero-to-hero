@@ -1,7 +1,4 @@
-# docker-zero-to-hero
-
-
-# Docker Series — System That Ships
+# Docker Zero to Hero Series — System That Ships
 
 Welcome to the hands-on repository for the **System That Ships Docker Learning Series**.
 
