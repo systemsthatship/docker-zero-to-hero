@@ -52,6 +52,6 @@ This repository contains practical demonstrations, source code, Dockerfiles, arc
 
 Understand it. Build it. Ship it.
 
-**YouTube:** System That Ships
+**YouTube:** System That Ships [ https://www.youtube.com/@SystemsThatShip ] 
 
 Subscribe to the channel and follow the episodes to build your Docker skills step by step.
