@@ -20,9 +20,9 @@ This repository contains practical demonstrations, source code, Dockerfiles, arc
 
 | Episode | Topic | Status |
 |---|---|---|
-| 01 | Introduction to Docker | Planned |
+| 01 | Introduction to Docker | Available |
 | 02 | Docker Architecture & First Containers | Available |
-| 03 | Dockerfile & Building Custom Images | In Progress |
+| 03 | Dockerfile & Building Custom Images | Available |
 | 04 | Docker Volumes & Persistent Storage | Planned |
 | 05 | Docker Networking | Planned |
 | 06 | Docker Compose | Planned |
