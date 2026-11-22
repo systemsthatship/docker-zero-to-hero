@@ -42,16 +42,9 @@ episodes/
     │   └── index.html
     │
     ├── 03-My-First-Image-build/
-    │   ├── Dockerfile
-    │   └── index.html
-    │
-    ├── 04-Run-My-First-Custom-Container/
-    │
-    ├── 05-My-First-Image-v2/
-    │   ├── Dockerfile
-    │   └── index.html
-    │
-    └── 06-Docker-Hub-Image-Push/
+        ├── Dockerfile
+        └── index.html
+    
 ```
 
 ---
